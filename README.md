@@ -1,6 +1,6 @@
 <h1>Landing Page - Site academia</h1>
 
-Este é um projeto de site estático para uma academia fictícia chamada "Academia Fitness". O site foi desenvolvido utilizando HTML e CSS e possui as seguintes seções:
+O site foi desenvolvido utilizando HTML e CSS e possui as seguintes seções:
 
 <p>Início: Uma breve introdução à academia e seus serviços.</p>
 <p></p>Sobre: Informações sobre a academia e sua missão.</p>
